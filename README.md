@@ -2,9 +2,7 @@
 Segmented display from Teenage Engineering EP–133 K.O. II sampler using the 8x8 LED matrix display driven by MAX7219 and Arduino UNO
 
 
-**YouTube video: XXX**
-
-**WOKWI sketch: XXX**
+**YouTube video: https://youtu.be/CeOC7Bf_YKw**
 
 
 Links from the video:
