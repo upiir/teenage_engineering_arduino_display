@@ -5,6 +5,9 @@ Segmented display from Teenage Engineering EP–133 K.O. II sampler using the 8x
 **YouTube video: https://youtu.be/CeOC7Bf_YKw**
 
 
+![THUMB_teenage_engineering_display_v03](https://github.com/user-attachments/assets/d2c27bf0-fef9-41dd-a452-d03a2b297f70)
+
+
 Links from the video:
 - Do you like this video? You can buy me a coffee ☕: https://www.buymeacoffee.com/upir
 - MAX7219 module: https://s.click.aliexpress.com/e/_DkX1kNF
@@ -34,7 +37,7 @@ Related videos
 - Pimp my Potentiometer -CHEAPER-: https://youtu.be/Bot865qmdsM
 - Pimp My Potentiometer (again): https://youtu.be/sE3LSYoCqLQ
 
-![THUMB_teenage_engineering_display](https://github.com/user-attachments/assets/539dba88-0572-40b4-9509-0a5bc852237c)
+
 
 
 
