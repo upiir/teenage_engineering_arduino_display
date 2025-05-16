@@ -41,8 +41,12 @@ Related videos
 Small Animations:
 
 
+![teenage_engineering_display_03](https://github.com/user-attachments/assets/f5170ee6-66e2-4246-9f64-4a276d9d1f44)
+
 ![teenage_engineering_display_02](https://github.com/user-attachments/assets/05b5b1c3-fdc2-46f0-b0d2-e06daaaa9f63)
+
 ![teenage_engineering_display_01](https://github.com/user-attachments/assets/982f9500-1f4f-4e83-82ed-9f10631fa03c)
+
 
 
 Screenshots from the video:
