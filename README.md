@@ -25,7 +25,7 @@ Links from the video:
 - Teenage Engineering medieval: https://teenage.engineering/store/medieval-quest-kit
 - WOKWI Matrix Display documentation: https://docs.wokwi.com/parts/wokwi-max7219-matrix
 - Arduino UNO: https://s.click.aliexpress.com/e/_AXDw1h
-- Arduino breadboard prototyping shield: https://s.click.aliexpress.com/e/_ApbCwx
+- Arduino breadboard prototyping shield: https://s.click.aliexpress.com/e/_op36epd
 - Autodesk Fusion: https://www.autodesk.com/products/fusion-360
 - BambuLab X1C printer: https://shareasale.com/r.cfm?b=2353821&u=3422904&m=138211&urllink=&afftrack=
 
